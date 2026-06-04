@@ -1,0 +1,14 @@
+pandas
+numpy
+
+requests
+beautifulsoup4
+
+sqlalchemy
+psycopg2-binary
+
+streamlit
+
+apache-airflow
+
+python-dotenv
